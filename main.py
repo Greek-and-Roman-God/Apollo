@@ -1,2 +1,3 @@
-from Algorithm import changes
-changes()
+from change import change
+
+change()
