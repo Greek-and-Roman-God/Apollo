@@ -1,2 +1,2 @@
 # Apollo
-☀ 
+☀ 🐍⚔ Kill the python
