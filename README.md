@@ -1,5 +1,5 @@
 # Apollo
-☀ 🐍⚔ Kill the Python
+☀ 🐍⚔ Kill the Python  
 📌: 소스코드
 ## Greedy
 ### Part 2
