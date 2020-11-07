@@ -30,8 +30,8 @@
 - [x] 아이디어를 코드로 바꾸는 구현
 - [x] [예제4-1] 상하좌우[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_implementation/4-1_up_down_left_right.py)
 - [x] [예제4-2] 시각[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_implementation/4-2_time.py)
-- [ ] [실전문제] 왕실의 나이트
-- [ ] [실전문제] 게임 개발
+- [x] [실전문제] 왕실의 나이트[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_implementation/night.py)
+- [x] [실전문제] 게임 개발[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_implementation/develop_game.py)
 
 ### part3
 
