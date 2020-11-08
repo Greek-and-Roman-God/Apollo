@@ -21,7 +21,7 @@
 - [x] Q03 문자열 뒤집기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part3_greedy/q3_flip_str.py)
 - [x] Q04 만들 수 없는 금액[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part3_greedy/q4_impo_price.py)
 - [x] Q05 볼링공 고르기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part3_greedy/q5_bowling.py)
-- [ ] Q06 무지의 먹방 라이브[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part3_greedy/q6_mukbang.py)
+- [x] Q06 무지의 먹방 라이브[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part3_greedy/q6_mukbang.py)
 
 ## Implementation
 
