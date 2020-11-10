@@ -51,8 +51,8 @@
 
 - [x] 꼭 필요한 자료구조 기초
 - [x] 탐색 알고리즘 DFS/BFS
-- [ ] [실전문제] 음료수 얼려 먹기
-- [ ] [실전문제] 미로 탈출
+- [x] [실전문제] 음료수 얼려 먹기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_search/freezing_drinks.py)
+- [x] [실전문제] 미로 탈출[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_search/maze.py)
 
 ### part3
 
