@@ -89,3 +89,23 @@
 - [x] 윤년[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/2_if/2_3_baek_leap_year.py)
 - [x] 사분면 고르기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/2_if/2_4_baek_quadrant.py)
 - [x] 알람 시계[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/2_if/2_5_baek_alarm.py)
+
+### [3. for문](https://www.acmicpc.net/step/3)
+
+- [x] 구구단[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/1_gugudan.py)
+- [x] A+B-3[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/2_A+B-3.py)
+- [x] 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/3_sum.py)
+- [x] 빠른 A+B[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/4_fast_A-B.py)
+- [x] N 찍기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/5_print_n.py)
+- [x] 기찍 N[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/6_print_reverse_n.py)
+- [x] A+B-7[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/7_A+B-7.py)
+- [x] A+B-8[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/8_A+B-8.py)
+- [x] 별찍기-1[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/9_stamp_star_1.py)
+- [x] 별찍기-2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/10_stamp_star_2.py)
+- [x] X보다 작은 수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/3_for/11_number_smaller_than_x.py)
+
+### [4. while문](https://www.acmicpc.net/step/2)
+
+- [x] A+B-5[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/4_while/1_A+B-5.py)
+- [x] A+B-4[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/4_while/2_A+B-4.py)
+- [x] 더하기 사이클[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/4_while/3_addtion_cycle.py)
