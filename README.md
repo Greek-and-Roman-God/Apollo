@@ -109,3 +109,23 @@
 - [x] A+B-5[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/4_while/1_A+B-5.py)
 - [x] A+B-4[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/4_while/2_A+B-4.py)
 - [x] 더하기 사이클[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/4_while/3_addtion_cycle.py)
+
+### [5. 1차원 배열](https://www.acmicpc.net/step/6)
+
+- [x] 최소, 최대[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/1_max_min.py)
+- [x] 최댓값[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/2_maximum_value.py)
+- [x] 숫자의 개수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/3_number_of_numbers.py)
+- [x] 나머지[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/4_remaindor.py)
+- [x] 평균[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/5_average.py)
+- [x] OX퀴즈[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/6_OX_quiz.py)
+- [x] 평균은 넘겠지[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/7_will_be_above_average.py)
+
+### [이분탐색](https://www.acmicpc.net/step/29)
+
+- [ ] 수 찾기[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/1_searching_number.py)
+- [ ] 숫자 카드 2[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/2_number_card_2.py)
+- [ ] 랜선 자르기[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/3_cutting_lan.py)
+- [ ] 나무 자르기[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/4_cutting_tree.py)
+- [ ] 공유기 설치[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/5_setting_router.py)
+- [ ] K번째 수[]()
+- [ ] 가장 긴 증가하는 부분 수열2[]()
