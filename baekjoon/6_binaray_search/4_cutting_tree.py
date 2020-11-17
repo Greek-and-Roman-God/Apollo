@@ -7,8 +7,6 @@ tree_h = list(map(int,input().split()))
 tree_h.sort()
 tree_h.reverse()
 
-print(tree_h)
-
 
 i = 0
 count = 1
