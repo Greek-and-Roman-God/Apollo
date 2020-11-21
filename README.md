@@ -120,6 +120,12 @@
 - [x] OX퀴즈[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/6_OX_quiz.py)
 - [x] 평균은 넘겠지[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/5_1_dimensional_array/7_will_be_above_average.py)
 
+### [함수](https://www.acmicpc.net/step/5)
+
+- [x] 정수 N개의 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/7_function/1_sum_of_two_number.py)
+- [x] 셀프 넘버[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/7_function/2_self_number.py)
+- [x] 한수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/7_function/3_hansu.py)
+
 ### [이분탐색](https://www.acmicpc.net/step/29)
 
 - [x] 수 찾기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/1_searching_number.py)
