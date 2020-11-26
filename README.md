@@ -129,7 +129,7 @@
 ### [이분탐색](https://www.acmicpc.net/step/29)
 
 - [x] 수 찾기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/1_searching_number.py)
-- [ ] 숫자 카드 2[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/2_number_card_2.py)
+- [x] 숫자 카드 2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/2_number_card_2.py)
 - [x] 랜선 자르기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/3_cutting_lan.py)[정리필요💭]
 - [ ] 나무 자르기[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/4_cutting_tree.py)
 - [ ] 공유기 설치[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/5_setting_router.py)
