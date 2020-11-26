@@ -129,8 +129,8 @@
 ### [이분탐색](https://www.acmicpc.net/step/29)
 
 - [x] 수 찾기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/1_searching_number.py)
-- [ ] 숫자 카드 2[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/2_number_card_2.py)
-- [x] 랜선 자르기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/3_cutting_lan.py)[정리필요💭]
+- [x] 숫자 카드 2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/2_number_card_2.py)
+- [x] 랜선 자르기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/3_cutting_lan.py)[💭](https://doyeon311.github.io/algorithm/algorithm-_%EB%9E%9C%EC%84%A0%EC%9E%90%EB%A5%B4%EA%B8%B0/)
 - [ ] 나무 자르기[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/4_cutting_tree.py)
 - [ ] 공유기 설치[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/5_setting_router.py)
 - [ ] K번째 수[]()

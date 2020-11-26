@@ -11,10 +11,10 @@ m_list = list(map(int,input().split()))
 temp = m_list[:]
 
 for num in temp:
-    print(f'{n_list.count(num)}', end=' ')
+    print(n_list.count(num), end=' ')
 '''
 # 2
-# n = int(input())
+'''# n = int(input())
 n = 10
 # n_list = list(map(int,input().split()))
 n_list = [6,3,2,10,10,10,-10,-10,7,3]
@@ -73,5 +73,38 @@ for num in m_list:
                     break
         if flag:
             break
-# print(answer)
+# print(answer)'''
 
+# 3
+# n = int(input())
+n = 10
+# n_list = list(map(int,input().split()))
+n_list = [6,3,2,10,10,10,-10,-10,7,3]
+# m = int(input())
+m = 8
+# m_list = list(map(int,input().split()))
+m_list = [10,9,-5,2,3,4,5,-10]
+n_list.sort()
+
+answer = []
+
+dic = {}
+# 갖고 있는 수를 dictionary에 정리해서 넣어줌
+for num in n_list:
+    if num in dic:
+        dic[num] += 1
+    else:
+        dic[num] = 1
+# dic에 수가 들어있으면 들어있는 수량을 출력하고 없으면 0을 출력
+for i in m_list:
+    if i in dic:
+        print(dic[i], end=' ')
+    else:
+        print(0, end=' ')
+
+# print(dic)     
+
+
+
+
+        
