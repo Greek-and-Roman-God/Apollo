@@ -135,3 +135,16 @@
 - [ ] 공유기 설치[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/6_binaray_search/5_setting_router.py)
 - [ ] K번째 수[]()
 - [ ] 가장 긴 증가하는 부분 수열2[]()
+
+### [문자열](https://www.acmicpc.net/step/7)
+
+- [ ] 아스키 코드[]()
+- [ ] 숫자의 합[]()
+- [ ] 알파벳 찾기[]()
+- [ ] 문자열 반복[]()
+- [ ] 단어 공부[]()
+- [ ] 단어의 개수[]()
+- [ ] 상수[]()
+- [ ] 다이얼[]()
+- [ ] 크로아티아 알파벳[]()
+- [ ] 그룹 단어 체커[]()
