@@ -138,12 +138,12 @@
 
 ### [문자열](https://www.acmicpc.net/step/7)
 
-- [ ] 아스키 코드[]()
-- [ ] 숫자의 합[]()
-- [ ] 알파벳 찾기[]()
-- [ ] 문자열 반복[]()
-- [ ] 단어 공부[]()
-- [ ] 단어의 개수[]()
+- [x] 아스키 코드[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/1_ascii_code.py)
+- [x] 숫자의 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/2_sum_of_number.py)
+- [x] 알파벳 찾기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/3_finding_alpha.py)
+- [x] 문자열 반복[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/4_string_vocab.py)
+- [x] 단어 공부[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/5_studing_vocab.py)
+- [x] 단어의 개수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/6_number_of_words.py)
 - [ ] 상수[]()
 - [ ] 다이얼[]()
 - [ ] 크로아티아 알파벳[]()
