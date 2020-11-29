@@ -146,5 +146,5 @@
 - [x] 단어의 개수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/6_number_of_words.py)
 - [x] 상수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/7_sangsu.py)
 - [x] 다이얼[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/8_dial.py)
-- [ ] 크로아티아 알파벳[]()
+- [ ] 크로아티아 알파벳[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/9_croatian_alpha.py)
 - [ ] 그룹 단어 체커[]()
