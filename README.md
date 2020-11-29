@@ -144,7 +144,7 @@
 - [x] 문자열 반복[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/4_string_vocab.py)
 - [x] 단어 공부[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/5_studing_vocab.py)
 - [x] 단어의 개수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/6_number_of_words.py)
-- [ ] 상수[]()
+- [x] 상수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/7_sangsu.py)
 - [ ] 다이얼[]()
 - [ ] 크로아티아 알파벳[]()
 - [ ] 그룹 단어 체커[]()
