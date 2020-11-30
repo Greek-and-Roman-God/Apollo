@@ -15,7 +15,7 @@ for _ in range(word_cnt):
         temp = char
     # print(char_arr, list(set(word)))
 
-    # 위에서 구한 char_arr(문자가 여러번 나오는 경우만 줄임) word에 set을 해서 중복을 모두 제거한 list와 길이 비교
+    # 위에서 구한 char_arr(문자가 여러번 나오는 경우만 줄임)와 중복제거한 list를 길이 비교 -> 같으면 그룹단어
     # set은 순서가 없기 떄문에 길이로 비교
     if len(char_arr) == len(list(set(word))):
         group_word_cnt += 1
