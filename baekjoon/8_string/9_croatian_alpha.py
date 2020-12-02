@@ -28,3 +28,14 @@ word = word.replace(' ','')
 
 # for에서 구한 cnt와 word의 길이로 결과를 출력
 print(cnt+len(word))
+
+
+# 정리
+word = input()
+
+alpha = ['c=','c-','dz=','d-','lj','nj','s=','z=']
+cnt = 0
+for key in alpha:
+    word += word.replace(key, '*')
+
+print(len(word))

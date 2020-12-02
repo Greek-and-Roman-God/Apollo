@@ -21,3 +21,26 @@ for _ in range(word_cnt):
         group_word_cnt += 1
     
 print(group_word_cnt)
+
+
+
+# 정리
+word_cnt = int(input()) # 입력받을 단어의 개수
+group_word_cnt = 0 # 그룹단어의 개수
+for _ in range(word_cnt):
+    word = input()
+
+    char_arr = []
+    temp = ''
+
+    for char in word:
+        if temp != char:
+            char_arr.append(char)
+        temp = char
+
+    if len(char_arr) == len(list(set(word))):
+        group_word_cnt += 1
+
+
+    
+print(group_word_cnt)
