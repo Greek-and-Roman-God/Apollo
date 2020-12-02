@@ -148,3 +148,21 @@
 - [x] 다이얼[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/8_dial.py)
 - [x] 크로아티아 알파벳[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/9_croatian_alpha.py)
 - [x] 그룹 단어 체커[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/10_group_word_checker.py)
+
+### [수학 1](https://www.acmicpc.net/step/8)
+
+- [ ] 손익분기점[]()
+- [ ] 설탕 배달[]()
+- [ ] 벌집[]()
+- [ ] 분수찾기[]()
+- [ ] 달팽이는 올라가고 싶다[]()
+- [ ] ACM 호텔[]()
+- [ ] 부녀회장이 될테야[]()
+- [ ] Fly me to the Alpha Centauri![]()
+
+### [재귀](https://www.acmicpc.net/step/19)
+
+- [ ] 팩토리얼[]()
+- [ ] 피보나치 수 5[]()
+- [ ] 별찍기 - 10[]()
+- [ ] 하노이 탑 이동 순서[]()
