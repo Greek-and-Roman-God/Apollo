@@ -151,7 +151,7 @@
 
 ### [수학 1](https://www.acmicpc.net/step/8)
 
-- [ ] 손익분기점[]()
+- [x] 손익분기점[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/1_break-even_point.py)
 - [ ] 설탕 배달[]()
 - [ ] 벌집[]()
 - [ ] 분수찾기[]()
