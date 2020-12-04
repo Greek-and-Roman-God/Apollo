@@ -152,7 +152,7 @@
 ### [수학 1](https://www.acmicpc.net/step/8)
 
 - [x] 손익분기점[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/1_break-even_point.py)
-- [ ] 설탕 배달[]()
+- [x] 설탕 배달[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/2_sugar_delivery.py)
 - [ ] 벌집[]()
 - [ ] 분수찾기[]()
 - [x] 달팽이는 올라가고 싶다[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/5_snail_want_to_go_up.py)
