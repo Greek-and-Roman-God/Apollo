@@ -156,7 +156,7 @@
 - [ ] 벌집[]()
 - [ ] 분수찾기[]()
 - [x] 달팽이는 올라가고 싶다[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/5_snail_want_to_go_up.py)
-- [ ] ACM 호텔[]()
+- [x] ACM 호텔[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/6_hotel_ACM.py)
 - [ ] 부녀회장이 될테야[]()
 - [ ] Fly me to the Alpha Centauri![]()
 
