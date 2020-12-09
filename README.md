@@ -122,7 +122,7 @@
 
 ### [함수](https://www.acmicpc.net/step/5)
 
-- [x] 정수 N개의 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/7_function/1_sum_of_two_number.py)
+- [x] 정수 N개의 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/7_function/1_sum_of_N_number.py)
 - [x] 셀프 넘버[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/7_function/2_self_number.py)
 - [x] 한수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/7_function/3_hansu.py)
 
