@@ -163,6 +163,6 @@
 ### [재귀](https://www.acmicpc.net/step/19)
 
 - [x] 팩토리얼[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/factorial.py)
-- [ ] 피보나치 수 5[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/)
+- [x] 피보나치 수 5[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/fibo.py)
 - [ ] 별찍기 - 10[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/)
 - [ ] 하노이 탑 이동 순서[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/)
