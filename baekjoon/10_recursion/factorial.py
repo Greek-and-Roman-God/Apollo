@@ -5,10 +5,8 @@ N = int(input())
 
 
 def fac(n):
-    result = 1
     if n > 1:
-        result *= n * fac(n-1)
-        return result
+        return n * fac(n-1)
     else:
         return 1
 
