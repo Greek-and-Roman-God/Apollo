@@ -3,6 +3,26 @@
 ☀ 🐍⚔ Kill the Python  
 📌: 소스코드
 
+## contents
+
+- [이코테]()
+
+  - [Greedy](#Greedy)
+  - [Implementation](#Implementation)
+  - [DFS/BFS](#DFS/BFS)
+
+- [BAEKJOON](#BAEKJOON)
+  - [1. 입출력과 사칙연산](#1.-입출력과-사칙연산)
+  - [2. if문](#2.-if문)
+  - [3. for문](#3.-for문)
+  - [4. while문](#14.-while문)
+  - [5. 1차원 배열](#5.-1차원-배열)
+  - [함수](#함수)
+  - [이분탐색](#이분탐색)
+  - [문자열](#문자열)
+  - [수학 1](#수학-1)
+  - [재귀](#재귀)
+
 ## Greedy
 
 ### Part 2
