@@ -178,7 +178,7 @@
 - [x] 달팽이는 올라가고 싶다[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/5_snail_want_to_go_up.py)
 - [x] ACM 호텔[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/6_hotel_ACM.py)
 - [x] 부녀회장이 될테야[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/7_i_will_be_chairman.py)
-- [ ] Fly me to the Alpha Centauri![]()
+- [x] Fly me to the Alpha Centauri![📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/8_Fly_me_to_the_Alpha_Centauri.py)
 
 ### [재귀](https://www.acmicpc.net/step/19)
 
