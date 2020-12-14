@@ -1,6 +1,7 @@
 # 1712 손익분기점
+# https://www.acmicpc.net/problem/1712
 
-A,B,C = list(map(int, input().split()))
+A, B, C = list(map(int, input().split()))
 cnt = 0
 
 if B >= C:

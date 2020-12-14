@@ -11,7 +11,7 @@ while 1:
 
     if temp >= X:
         break
-    
+
     cnt += 1
 
 
@@ -21,9 +21,8 @@ fou_sum = cnt + 1
 print(fou_sum)
 if cnt % 2 == 0:
     cha = temp - X + 1
-    print(str(fou_sum-cha)+'/'+str(cha))
 else:
     cha = X - temp + cnt
-    print(str(fou_sum-cha)+'/'+str(cha))
+print(str(fou_sum-cha)+'/'+str(cha))
 
-    # print(str(cha)+'/'+str(fou_sum-cha))
+# print(str(cha)+'/'+str(fou_sum-cha))
