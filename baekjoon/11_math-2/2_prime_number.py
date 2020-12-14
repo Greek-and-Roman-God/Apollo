@@ -32,3 +32,24 @@ if prime:
     print(prime[0])
 else:
     print(-1)
+
+
+print('------방법2-------')
+m = int(input())
+n = int(input())
+prime = []
+for num in range(m, n+1):
+    if num == 1:
+        continue
+    for i in range(2, num//2+1):
+        if num % i == 0:
+            break
+    else:
+        # print(num, prime)
+        prime.append(num)
+# print(prime)
+if prime:
+    print(sum(prime))
+    print(prime[0])
+else:
+    print(-1)
