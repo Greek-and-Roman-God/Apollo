@@ -186,3 +186,16 @@
 - [x] 피보나치 수 5[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/fibo.py)
 - [ ] 별찍기 - 10[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/)
 - [x] 하노이 탑 이동 순서[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/hanoi.py)
+
+### [수학 2](https://www.acmicpc.net/step/10)
+
+- [x] 소수찾기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/1_finding_prime_number.py)
+- [ ] 소수[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [ ] 소수구하기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [ ] 베르트랑 공준[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [ ] 골드바흐의 추측[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [ ] 직사각형에서 탈출[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [ ] 네 번쨰 점[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [ ] 직각삼각형[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [ ] 택시 기하학[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [ ] 터렛[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
