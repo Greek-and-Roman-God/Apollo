@@ -194,7 +194,7 @@
 - [x] 소수구하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/3_get_prime_num.py)
 - [ ] 베르트랑 공준[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
 - [ ] 골드바흐의 추측[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
-- [ ] 직사각형에서 탈출[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [x] 직사각형에서 탈출[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/6_escaping_from_rectagle.py)
 - [ ] 네 번쨰 점[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
 - [ ] 직각삼각형[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
 - [ ] 택시 기하학[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
