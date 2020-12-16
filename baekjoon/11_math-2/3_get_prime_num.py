@@ -30,3 +30,22 @@ for num in range(m, n + 1):
     # 원소가 0(False)인 칸만 출력
     if not nums[num]:
         print(num)
+
+# 에라토스테네스의체 제대로 읽어보고 다르게 풀어봄
+# 뭐가 다른건지는 잘 모르겠다. 백준에서는 위의 코드보다 속도는 느리고 메모리가 적게 나옴
+m, n = map(int, input().split())
+
+nums = [0] * (n+1)
+nums[0] = nums[1] = -1
+
+for i in range(2, n//2+1):
+    temp = 2
+    if nums[i] == -1:
+        continue
+    while temp * i <= n:
+        nums[temp * i] = -1
+        temp += 1
+
+for num in range(m, n + 1):
+    if not nums[num]:
+        print(num)
