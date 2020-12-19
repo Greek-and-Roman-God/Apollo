@@ -184,7 +184,7 @@
 
 - [x] 팩토리얼[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/factorial.py)
 - [x] 피보나치 수 5[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/fibo.py)
-- [ ] 별찍기 - 10[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/)
+- [x] 별찍기 - 10[💦](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/stamp_star.py)
 - [x] 하노이 탑 이동 순서[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/10_recursion/hanoi.py)
 
 ### [수학 2](https://www.acmicpc.net/step/10)
