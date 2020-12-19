@@ -195,7 +195,7 @@
 - [ ] 베르트랑 공준[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
 - [ ] 골드바흐의 추측[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
 - [x] 직사각형에서 탈출[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/6_escaping_from_rectagle.py)
-- [ ] 네 번쨰 점[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
+- [x] 네 번쨰 점[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/7_4th_dot.py)
 - [ ] 직각삼각형[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
 - [ ] 택시 기하학[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
 - [ ] 터렛[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/.py)
