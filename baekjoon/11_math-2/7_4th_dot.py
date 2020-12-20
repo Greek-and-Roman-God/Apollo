@@ -14,10 +14,13 @@ for _ in range(3):
     x, y = map(int, input().split())
     xs.append(x)
     ys.append(y)
+
 fourth_dot = [0, 0]
+
 for i in range(3):
     if xs.count(xs[i]) == 1:
         fourth_dot[0] = xs[i]
     if ys.count(ys[i]) == 1:
         fourth_dot[1] = ys[i]
+
 print(fourth_dot[0], fourth_dot[1])

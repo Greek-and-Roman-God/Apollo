@@ -2,13 +2,21 @@
 # https://www.acmicpc.net/problem/2447
 
 
-def stars(n):
+def stars(star):
     matrix = []
-    for i in range(3 * len(n)):
-        if i // len(n) == 1:
-            matrix.append(n[i % len(n)] + " " * len(n) + n[i % len(n)])
+    for i in range(3 * len(star)):  # range(9)
+
+        if i // len(star) == 1:
+            matrix.append(star[i % len(star)] + " " *
+                          len(star) + star[i % len(star)])
+            # 3 "***" + "   " + "***"
+            # 4 "* *" + "   " + "* *"
+            # 5 "***" + "   " + "***"
         else:
-            matrix.append(n[i % len(n)] * 3)
+            matrix.append(star[i % len(star)] * 3)
+            # 0, 6 "***"*3 -> *********
+            # 1, 7 "* *"*3 -> * ** ** *
+            # 2, 8 "***"*3 -> *********
     return list(matrix)
 
 
