@@ -1,4 +1,4 @@
-# 베르트랑 공준
+# 4948 베르트랑 공준
 # https://www.acmicpc.net/problem/4948
 n = 123456
 temp = [1] * (2*n+1)
