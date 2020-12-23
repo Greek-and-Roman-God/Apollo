@@ -199,3 +199,11 @@
 - [x] 직각삼각형[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/8_trianglepy)
 - [x] 택시 기하학[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/9_Taxicab_Geometry.py)
 - [x] 터렛[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/10_teret.py)
+
+### [브루트 포스](https://www.acmicpc.net/step/22)
+
+- [x] 블랙잭[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/.py)
+- [x] 분해합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/.py)
+- [ ] 덩치[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/.py)
+- [ ] 체스판 다시 칠하기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/.py)
+- [ ] 영화감독 숍[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/.py)
