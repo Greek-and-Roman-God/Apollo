@@ -15,4 +15,4 @@ for i, c in enumerate(cards):
                 continue
             else:
                 temp.append(num)
-print(temp)
+print(max(temp))
