@@ -205,5 +205,5 @@
 - [x] 블랙잭[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/1_black_jack.py)
 - [x] 분해합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/2_decomposition.py)
 - [x] 덩치[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/3_bulk.py)
-- [ ] 체스판 다시 칠하기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/.py)
+- [x] 체스판 다시 칠하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/4_repiainting_chess_board.py)
 - [x] 영화감독 숍[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/5_director_shop.py)
