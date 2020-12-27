@@ -2,7 +2,6 @@
 # https://www.acmicpc.net/problem/2231
 n = int(input())
 
-start = max(num - 9*len(n), 0)
 for number in range(1, n):
     temp = [number]
     for num in str(number):
