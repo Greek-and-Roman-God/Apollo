@@ -59,12 +59,10 @@ for i in range(n-8+1):
             paint = 0
             for row, temp_row in zip(board[i:i+8], t_board):
                 row = row[j:j+8]
-                # print(f'{row} {temp}')
                 for color, temp_color in zip(row, temp_row):
                     if color != temp_color:
                         paint += 1
             else:
-                # print(f"{paint}-------------------")
                 temp = paint if temp > paint else temp
 
 print(temp)

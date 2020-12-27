@@ -2,12 +2,11 @@
 # https://www.acmicpc.net/problem/2231
 n = int(input())
 
-
+start = max(num - 9*len(n), 0)
 for number in range(1, n):
     temp = [number]
-    if number > 10:
-        for num in str(number):
-            temp.append(int(num))
+    for num in str(number):
+        temp.append(int(num))
 
     if sum(temp) == n:
         print(number)
