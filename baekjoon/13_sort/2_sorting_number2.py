@@ -19,3 +19,16 @@ def heap_sort(a):
 
 
 heap_sort(nums)
+
+
+# 2
+
+n = int(input())
+nums = []
+for _ in range(n):
+    num = int(input())
+    nums.append(num)
+
+nums.sort()
+for num in nums:
+    print(num)
