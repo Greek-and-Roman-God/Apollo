@@ -22,6 +22,8 @@
   - [문자열](#문자열)
   - [수학 1](#수학-1)
   - [재귀](#재귀)
+  - [그리디](#그리디)
+  - [정렬](#정렬)
 
 ## Greedy
 
@@ -207,3 +209,15 @@
 - [x] 덩치[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/3_bulk.py)
 - [x] 체스판 다시 칠하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/4_repiainting_chess_board.py)
 - [x] 영화감독 숍[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/12_brute_force/5_director_shop.py)
+
+### [정렬](https://www.acmicpc.net/step/9)
+
+- [x] 수 정렬하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/1_sorting_number.py)
+- [ ] 수 정렬하기2[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [ ] 수 정렬하기3[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [ ] 통계학[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [ ] 소트인사이드[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [ ] 좌표 정렬하기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [ ] 좌표 정렬하기2[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [ ] 단어 정렬[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [ ] 나이순 정렬[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
