@@ -22,7 +22,7 @@ heap_sort(nums)
 
 
 # 2
-
+# pypy로 돌리면 통과
 n = int(input())
 nums = []
 for _ in range(n):
