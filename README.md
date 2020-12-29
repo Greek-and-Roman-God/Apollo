@@ -214,10 +214,10 @@
 
 - [x] 수 정렬하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/1_sorting_number.py)
 - [x] 수 정렬하기2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/2_sorting_number2.py)
-- [ ] 수 정렬하기3[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [x] 수 정렬하기3[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/3_sorting_number3.py)
 - [ ] 통계학[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
 - [ ] 소트인사이드[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
 - [ ] 좌표 정렬하기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
 - [ ] 좌표 정렬하기2[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
-- [ ] 단어 정렬[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [x] 단어 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/8_sorting_words.py)
 - [ ] 나이순 정렬[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
