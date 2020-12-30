@@ -220,4 +220,4 @@
 - [x] 좌표 정렬하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/6_sorting_coordinate.py)
 - [x] 좌표 정렬하기2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/7_sorting_coordinate2.py)
 - [x] 단어 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/8_sorting_words.py)
-- [ ] 나이순 정렬[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [x] 나이순 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/9_sorting_by_age.py)
