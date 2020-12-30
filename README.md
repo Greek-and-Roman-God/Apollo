@@ -218,6 +218,6 @@
 - [x] 통계학[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/4_statistics.py)
 - [x] 소트인사이드[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/5_sort_inside.py)
 - [x] 좌표 정렬하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/6_sorting_coordinate.py)
-- [ ] 좌표 정렬하기2[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
+- [x] 좌표 정렬하기2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/7_sorting_coordinate2.py)
 - [x] 단어 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/8_sorting_words.py)
 - [ ] 나이순 정렬[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/.py)
