@@ -8,6 +8,7 @@ max_cnt = 0  # 최빈값의 횟수
 for _ in range(n):
     score = int(input())
     scores.append(score)
+
     if score in cnt:
         cnt[score] += 1
     else:

@@ -2,11 +2,12 @@
 # https://www.acmicpc.net/problem/2751
 # 파이썬은 너무 느려서 pypy로 해야된다함
 import heapq
+import sys
 
-n = int(input())
+n = int(sys.stdin.readline())
 nums = []
 for _ in range(n):
-    num = int(input())
+    num = int(sys.stdin.readline())
     nums.append(num)
 
 
@@ -23,10 +24,10 @@ heap_sort(nums)
 
 # 2
 # pypy로 돌리면 통과
-n = int(input())
+n = int(sys.stdin.readline())
 nums = []
 for _ in range(n):
-    num = int(input())
+    num = int(sys.stdin.readline())
     nums.append(num)
 
 nums.sort()

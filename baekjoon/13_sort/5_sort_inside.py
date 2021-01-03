@@ -2,5 +2,5 @@
 # https://www.acmicpc.net/problem/1427
 
 n = input()
-result = ''.join(sorted(list(n), reverse=True))
-print(result)
+# result = ''.join(sorted(list(n), reverse=True))
+print(''.join(sorted(list(n), reverse=True)))
