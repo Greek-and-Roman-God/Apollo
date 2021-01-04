@@ -181,6 +181,7 @@
 - [x] ACM 호텔[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/6_hotel_ACM.py)
 - [x] 부녀회장이 될테야[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/7_i_will_be_chairman.py)
 - [x] Fly me to the Alpha Centauri![📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/8_Fly_me_to_the_Alpha_Centauri.py)
+- [x] 큰수A+B [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/9_large_num_A+B.py)
 
 ### [재귀](https://www.acmicpc.net/step/19)
 
@@ -221,3 +222,9 @@
 - [x] 좌표 정렬하기2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/7_sorting_coordinate2.py)
 - [x] 단어 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/8_sorting_words.py)
 - [x] 나이순 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/9_sorting_by_age.py)
+
+### [그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)
+
+- [x] 동전 0[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/1_coin_0.py)
+- [x] 회의실 배정[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/2_meeting_room.py)
+- [x] 우유 축제[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/milk_festa.py)
