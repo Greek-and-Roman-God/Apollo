@@ -231,3 +231,4 @@
 - [x] 캥거루 세마리[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/three_kang_2.py)
 - [x] 거스름돈[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/charge.py)
 - [x] 컵홀더[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/cupholder.py)
+- [x] 한조서열정리하고옴ㅋㅋ[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/hanjo.py)
