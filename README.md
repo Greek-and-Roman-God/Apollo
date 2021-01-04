@@ -234,3 +234,4 @@
 - [x] 한조서열정리하고옴ㅋㅋ[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/hanjo.py)
 - [x] ZOAC 2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/ZOAC_2.py)
 - [x] 책정리[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/stroring_book.py)
+- [x] UCPC는 무엇의 약자일까?[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/what_does_UCPC_stand_for.py)
