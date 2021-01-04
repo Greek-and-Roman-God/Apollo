@@ -202,6 +202,7 @@
 - [x] 직각삼각형[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/8_trianglepy)
 - [x] 택시 기하학[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/9_Taxicab_Geometry.py)
 - [x] 터렛[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/10_teret.py)
+- [x] 소인수분해[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/Factorization.py)
 
 ### [브루트 포스](https://www.acmicpc.net/step/22)
 
