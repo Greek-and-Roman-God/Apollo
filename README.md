@@ -223,9 +223,10 @@
 - [x] 단어 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/8_sorting_words.py)
 - [x] 나이순 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/9_sorting_by_age.py)
 
-### [그리디](https://www.acmicpc.net/problemset?sort=ac_desc&algo=33)
+### [그리디](https://www.acmicpc.net/problemset?sort=solvedac_asc&algo=33&algo_if=and)
 
 - [x] 동전 0[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/1_coin_0.py)
 - [x] 회의실 배정[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/2_meeting_room.py)
 - [x] 우유 축제[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/milk_festa.py)
 - [x] 캥거루 세마리[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/three_kang_2.py)
+- [x] 거스름돈[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/charge.py)
