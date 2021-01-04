@@ -24,6 +24,7 @@
   - [재귀](#재귀)
   - [그리디](#그리디)
   - [정렬](#정렬)
+  - [백트레킹](#백트레킹)
 
 ## Greedy
 
@@ -236,3 +237,14 @@
 - [x] ZOAC 2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/ZOAC_2.py)
 - [x] 책정리[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/stroring_book.py)
 - [x] UCPC는 무엇의 약자일까?[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/what_does_UCPC_stand_for.py)
+
+### [백트레킹](https://www.acmicpc.net/step/34)
+
+- [x] N과 M(1)[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_1.py)
+- [ ] N과 M(2)[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_2.py)
+- [ ] N과 M(3)[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_3.py)
+- [ ] N과 M(4)[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_4.py)
+- [ ] N-Queen[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
+- [ ] 스도쿠[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
+- [ ] 연산자 끼워넣기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
+- [ ] 스타트와 링크[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
