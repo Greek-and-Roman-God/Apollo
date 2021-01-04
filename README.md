@@ -246,5 +246,5 @@
 - [ ] N과 M(4)[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_4.py)
 - [ ] N-Queen[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
 - [ ] 스도쿠[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
-- [ ] 연산자 끼워넣기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
+- [x] 연산자 끼워넣기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/operator.py)
 - [ ] 스타트와 링크[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
