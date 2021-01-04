@@ -232,3 +232,4 @@
 - [x] 거스름돈[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/charge.py)
 - [x] 컵홀더[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/cupholder.py)
 - [x] 한조서열정리하고옴ㅋㅋ[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/hanjo.py)
+- [x] ZOAC 2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/greedy/ZOAC_2.py)
