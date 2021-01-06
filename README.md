@@ -258,3 +258,4 @@
 - [x] 오르막 수 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11057.py)
 - [x] 2xN 타일링 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11726.py)
 - [x] 스티커 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/9465.py)
+- [x] 포도주 시식 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2156.py)
