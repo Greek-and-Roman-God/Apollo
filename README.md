@@ -262,3 +262,4 @@
 - [x] 가장 긴 증가하는 부분수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11053.py)
 - [x] 가장 긴 바이토닉 부분수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11054.py)
 - [x] 가장 큰 부분수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11055.py)
+- [x] 가장 긴 감소하는 부분수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11722.py)
