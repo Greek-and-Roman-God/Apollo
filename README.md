@@ -259,3 +259,4 @@
 - [x] 2xN 타일링 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11726.py)
 - [x] 스티커 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/9465.py)
 - [x] 포도주 시식 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2156.py)
+- [x] 가장 긴 증가하는 부분수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11053.py)
