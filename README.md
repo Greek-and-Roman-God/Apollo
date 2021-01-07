@@ -269,3 +269,4 @@
 - [x] 암호코드 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2011.py)
 - [x] 타일 채우기 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2133.py)
 - [x] 합분해 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2225.py)
+- [x] 파도반 수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/9461.py)
