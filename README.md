@@ -265,3 +265,4 @@
 - [x] 가장 긴 감소하는 부분수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11722.py)
 - [x] 계단 오르기 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2579.py)
 - [x] 연속합 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/1912.py)
+- [x] 제곱수의 합 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/1699.py)
