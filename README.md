@@ -224,6 +224,7 @@
 - [x] 좌표 정렬하기2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/7_sorting_coordinate2.py)
 - [x] 단어 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/8_sorting_words.py)
 - [x] 나이순 정렬[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/9_sorting_by_age.py)
+- [x] 카드[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/13_sort/11652.py)
 
 ### [그리디](https://www.acmicpc.net/problemset?sort=solvedac_asc&algo=33&algo_if=and)
 
