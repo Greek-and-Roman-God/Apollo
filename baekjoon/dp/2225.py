@@ -1,5 +1,6 @@
 # 2225 합분해
-# https://mygumi.tistory.com/135
+# https://mygumi.tistory.com/
+# https://www.acmicpc.net/problem/2225
 
 n, k = map(int, input().split())
 
@@ -16,5 +17,5 @@ for i in range(2, k+1):
         temp[j] = temp[j] % 1000000000
     dp.append(temp)
 print(dp[k][n])
-
+# print(dp)
 # 조건에 맞는 dp를 만들어 놓고 실행하면 더 빠를지도
