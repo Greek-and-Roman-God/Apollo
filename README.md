@@ -253,8 +253,8 @@
 
 ### [DP]()
 
-- [x] 1로 만들기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/1463.py)
-- [x] 이친수 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2193.py)
+- [x] 1로 만들기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/1463.py)[📋](https://doyeon311.github.io/algorithm/algorithm-1463/)
+- [x] 이친수 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2193.py)[📋](https://doyeon311.github.io/algorithm/algorithm-1912/)
 - [x] 1,2,3 더하기 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/9095.py)
 - [x] 쉬운 계단 수 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/10844.py)
 - [x] 오르막 수 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11057.py)
