@@ -246,7 +246,7 @@
 
 - [x] N과 M(1)[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_1.py)
 - [x] N과 M(2)[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_2.py)
-- [ ] N과 M(3)[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_3.py)
+- [x] N과 M(3)[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_3.py)
 - [ ] N과 M(4)[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n&m_4.py)
 - [x] N-Queen[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/n-queen.py)
 - [ ] 스도쿠[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/.py)
