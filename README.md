@@ -25,6 +25,7 @@
   - [그리디](#그리디)
   - [정렬](#정렬)
   - [백트레킹](#백트레킹)
+  - [자료구조](#자료구조)
 
 ## Greedy
 
@@ -274,3 +275,7 @@
 - [x] 합분해 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/2225.py)
 - [x] 파도반 수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/9461.py)
 - [x] 카드 구매하기 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11052.py)
+
+### [자료구조]()
+
+- [x] 스택[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10828.py)
