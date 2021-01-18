@@ -252,6 +252,7 @@
 - [x] 스도쿠[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/sdoku.py)
 - [x] 연산자 끼워넣기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/operator.py)
 - [x] 스타트와 링크[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/start_link.py)
+- [x] 로또[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/6603.py)
 
 ### [DP]()
 
