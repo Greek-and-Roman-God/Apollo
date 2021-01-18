@@ -254,6 +254,7 @@
 - [x] 스타트와 링크[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/start_link.py)
 - [x] 로또[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/6603.py)
 - [x] 부분수열의 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/1182.py)
+- [x] 1,2,3 더하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/9005.py)
 
 ### [DP]()
 
