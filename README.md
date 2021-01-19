@@ -184,6 +184,8 @@
 - [x] 부녀회장이 될테야[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/7_i_will_be_chairman.py)
 - [x] Fly me to the Alpha Centauri![📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/8_Fly_me_to_the_Alpha_Centauri.py)
 - [x] 큰수A+B [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/9_large_num_A+B.py)
+- [x] 최대공약수와 최소공배수 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/2609.py)
+- [x] 약수 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/9_math-1/1037.py)
 
 ### [재귀](https://www.acmicpc.net/step/19)
 
@@ -255,6 +257,7 @@
 - [x] 로또[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/6603.py)
 - [x] 부분수열의 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/1182.py)
 - [x] 1,2,3 더하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/9005.py)
+- [x] 치킨배달[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/15686.py)
 
 ### [DP]()
 
