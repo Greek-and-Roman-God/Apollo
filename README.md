@@ -1,11 +1,15 @@
 # Apollo
 
-☀ 🐍⚔ Kill the Python  
+## 문제 출처
+
+- [이것이 취업을 위한 코딩테스트다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247882118)
+- [Baekjoon Online Judge](https://www.acmicpc.net/)
+
 📌: 소스코드
 
 ## contents
 
-- [이코테]()
+- [이코테](#이코테)
 
   - [Greedy](#Greedy)
   - [Implementation](#Implementation)
@@ -27,7 +31,9 @@
   - [백트레킹](#백트레킹)
   - [자료구조](#자료구조)
 
-## Greedy
+## 이코테
+
+### Greedy
 
 ### Part 2
 
@@ -47,9 +53,9 @@
 - [x] Q05 볼링공 고르기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part3_greedy/q5_bowling.py)
 - [x] Q06 무지의 먹방 라이브[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part3_greedy/q6_mukbang.py)
 
-## Implementation
+### Implementation
 
-### part2
+#### part2
 
 - [x] 아이디어를 코드로 바꾸는 구현
 - [x] [예제4-1] 상하좌우[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_implementation/4-1_up_down_left_right.py)
@@ -57,7 +63,7 @@
 - [x] [실전문제] 왕실의 나이트[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_implementation/night.py)
 - [x] [실전문제] 게임 개발[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_implementation/develop_game.py)
 
-### part3
+#### part3
 
 - [ ] [한 장으로 보는 알고리즘] 구현
 - [ ] Q07 럭키 스트라이크
@@ -69,16 +75,16 @@
 - [ ] Q13 치킨 배달
 - [ ] Q14 외벽 점검
 
-## DFS/BFS
+### DFS/BFS
 
-### part2
+#### part2
 
 - [x] 꼭 필요한 자료구조 기초
 - [x] 탐색 알고리즘 DFS/BFS
 - [x] [실전문제] 음료수 얼려 먹기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_search/freezing_drinks.py)
 - [x] [실전문제] 미로 탈출[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/part2_search/maze.py)
 
-### part3
+#### part3
 
 - [ ] [한 장으로 보는 알고리즘] DFS/BFS
 - [ ] Q15 특정 거리의 도시 찾기
