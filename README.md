@@ -265,6 +265,7 @@
 - [x] 부분수열의 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/1182.py)
 - [x] 1,2,3 더하기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/9005.py)
 - [x] 치킨배달[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/15686.py)
+- [x] 좋은 수열[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/backtracking/2661.py)
 
 ### [DP]()
 
