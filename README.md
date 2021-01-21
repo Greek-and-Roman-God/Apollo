@@ -5,7 +5,7 @@
 - [이것이 취업을 위한 코딩테스트다](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247882118)
 - [Baekjoon Online Judge](https://www.acmicpc.net/)
 
-📌: 소스코드
+📌: 소스코드  
 📋: 블로그 정리
 
 ## contents
