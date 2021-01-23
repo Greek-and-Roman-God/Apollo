@@ -296,3 +296,4 @@
 - [x] 괄호[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/9012.py)
 - [x] 쇠막대기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10799.py)
 - [x] 큐[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10845.py)
+- [x] 덱[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10866.py)
