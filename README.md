@@ -25,6 +25,7 @@
   - [함수](#함수)
   - [이분탐색](#이분탐색)
   - [문자열](#문자열)
+  - [구현](#구현)
   - [수학 1](#수학-1)
   - [재귀](#재귀)
   - [그리디](#그리디)
@@ -179,6 +180,19 @@
 - [x] 다이얼[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/8_dial.py)
 - [x] 크로아티아 알파벳[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/9_croatian_alpha.py)
 - [x] 그룹 단어 체커[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/8_string/10_group_word_checker.py)
+
+### [구현]()
+
+- [x] 2007년[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/1924.py)
+- [x] 별찍기 - 3[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2440.py)
+- [x] 별찍기 - 4[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2441.py)
+- [x] 별찍기 - 5[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2442.py)
+- [x] 별찍기 - 8[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2445.py)
+- [x] 별찍기 - 9[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2446.py)
+- [x] 별찍기 - 12[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2522.py)
+- [x] 별찍기 - 13[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/10992.py)
+- [x] 별찍기 - 16[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/10991.py)
+- [x] 알파벳 개수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/10808.py)
 
 ### [수학 1](https://www.acmicpc.net/step/8)
 
