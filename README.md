@@ -294,4 +294,4 @@
 
 - [x] 스택[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10828.py)
 - [x] 괄호[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/9012.py)
-- [ ] 쇠막대기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/.py)
+- [x] 쇠막대기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10799.py)
