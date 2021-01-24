@@ -3,7 +3,6 @@
 n, s = map(int, input().split())
 num_lst = list(map(int, input().split()))
 answer = 0
-selected = [0] * n
 
 
 def dfs(sum, i):
