@@ -20,19 +20,19 @@ def dfs(i):
     if i == n:
         return
 
-    for num in range(1, 4):
+    for num in range(1, 4):  # 제일 작은 수를 구해야하므로 1, 2, 3을 순서대로 넣어주면서 체크
         result.append(num)
         # print(i, result)
-        if check(result):
+        if check(result):   # 반복되는 부분이 있으면 마지막 값 pop
             result.pop()
             if num == 3:
                 return
 
         else:
             dfs(i+1)
-            if len(result) == n:
+            if len(result) == n:    # 길이가 충족됐으면 리턴
                 return
-            result.pop()
+            result.pop()    # 아니면 다음 값을 찾아야하기 떄문에 마지막 값 pop
 
 
 dfs(0)
