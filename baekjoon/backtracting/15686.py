@@ -2,8 +2,8 @@
 # https://www.acmicpc.net/problem/15686
 n, m = map(int, input().split())
 
-chickens = []    # 치킨 집의 위치를 저장
-houses = []
+chickens = []       # 치킨 집의 위치를 저장
+houses = []         # 집 위치를 저장
 for i in range(n):
     data = list(map(int, input().split()))
 
@@ -19,14 +19,12 @@ checked = [0] * len(chickens)
 
 def chk_dist(checked):
     dists = 0
-    # print(checked)
     for hou_x, hou_y in houses:
         dist = 1000000000
         for ind, (chi_x, chi_y) in enumerate(chickens):
             if checked[ind] == 1:
-                # print(dist)
+                # 저장된 최소 거리와 지금 거리를 비교
                 dist = min(dist, abs(chi_x-hou_x) + abs(chi_y-hou_y))
-        # print('-------------')
         dists += dist
     return dists
 
