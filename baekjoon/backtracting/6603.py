@@ -5,16 +5,14 @@ while True:
     input_data = list(map(int, input().split()))
     if input_data[0] == 0:
         break
-    k = input_data[0]
-    s = input_data[1:]
+    k = input_data[0]   # 주어질 숫자 개수
+    s = input_data[1:]  # 주어진 숫자들
 
-    selected = [0] * k
+    selected = [0] * k  # 숫자의 개수만큼의 확인 배열
 
-    answer = [None] * 6
+    answer = [None] * 6  # 뽑을 로또 번호 6개
 
     def dfs(cnt):
-        # print(i, cnt)
-        # print(*selected)
         if cnt == 6:
             print(*answer)
             return
