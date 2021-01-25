@@ -228,6 +228,8 @@
 - [x] 택시 기하학[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/9_Taxicab_Geometry.py)
 - [x] 터렛[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/10_teret.py)
 - [x] 소인수분해[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/Factorization.py)
+- [x] 가로수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/2485.py)
+- [x] GCD 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/9613.py)
 
 ### [브루트 포스](https://www.acmicpc.net/step/22)
 
@@ -311,3 +313,5 @@
 - [x] 쇠막대기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10799.py)
 - [x] 큐[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10845.py)
 - [x] 덱[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10866.py)
+- [x] 요세푸스 문제[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/1158.py)
+- [x] 요세푸스 문제 2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/1168.py)
