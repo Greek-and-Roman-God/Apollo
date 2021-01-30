@@ -319,6 +319,6 @@
 
 ### [그래프]()
 
-- [ ] DFS와 BFS[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/1260.py)
+- [x] DFS와 BFS[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/1260.py)
 - [x] 숨바꼭질[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/1697.py)
-- [ ] 단지 번호 붙이기[](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/2667.py)
+- [x] 단지 번호 붙이기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/2667.py)
