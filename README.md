@@ -310,13 +310,16 @@
 
 ### [자료구조]()
 
-- [x] 스택[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10828.py)
-- [x] 괄호[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/9012.py)
-- [x] 쇠막대기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10799.py)
-- [x] 큐[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10845.py)
-- [x] 덱[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10866.py)
 - [x] 요세푸스 문제[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/1158.py)
 - [x] 요세푸스 문제 2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/1168.py)
+- [x] 에디터[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/1406.py)
+- [x] 카드2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/2164.py)
+- [x] 괄호[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/9012.py)
+- [x] 쇠막대기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10799.py)
+- [x] 스택[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10828.py)
+- [x] 큐[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10845.py)
+- [x] 덱[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/10866.py)
+- [x] 요세푸스 문제 0[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/data_structure/11866.py)
 
 ### [그래프]()
 
