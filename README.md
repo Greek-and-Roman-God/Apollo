@@ -326,4 +326,5 @@
 - [x] DFS와 BFS[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/1260.py)
 - [x] 숨바꼭질[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/1697.py)
 - [x] 단지 번호 붙이기[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/2667.py)
-- [x] 미로탐색[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/2178.py)
+- [ ] 미로탐색[ ](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/2178.py)
+- [x] 바이러스[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/graph/2606.py)
