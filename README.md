@@ -184,16 +184,20 @@
 
 ### [구현]()
 
+- [x] 팰린드롬수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/1259.py)
 - [x] 2007년[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/1924.py)
 - [x] 별찍기 - 3[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2440.py)
 - [x] 별찍기 - 4[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2441.py)
 - [x] 별찍기 - 5[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2442.py)
 - [x] 별찍기 - 8[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2445.py)
 - [x] 별찍기 - 9[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2446.py)
+- [x] 검증수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2475.py)
 - [x] 별찍기 - 12[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2522.py)
+- [x] 음계[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/2920.py)
 - [x] 별찍기 - 13[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/10992.py)
 - [x] 별찍기 - 16[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/10991.py)
 - [x] 알파벳 개수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/10808.py)
+- [x] 진법 변환 2[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/implement/11005.py)
 
 ### [수학 1](https://www.acmicpc.net/step/8)
 
