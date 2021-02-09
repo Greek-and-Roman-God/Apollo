@@ -311,6 +311,7 @@
 - [x] 오르막 수 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11057.py)
 - [x] 가장 긴 감소하는 부분수열 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11722.py)
 - [x] 2xN 타일링 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11726.py)
+- [x] 2xN 타일링 2 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/11727.py)
 - [x] 정수 삼각형 [📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/dp/1932.py)
 
 ### [자료구조]()
