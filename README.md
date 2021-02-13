@@ -235,6 +235,7 @@
 - [x] 소인수분해[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/Factorization.py)
 - [x] 가로수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/2485.py)
 - [x] GCD 합[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/9613.py)
+- [x] 제곱 ㄴㄴ수[📌](https://github.com/Greek-and-Roman-God/Apollo/blob/main/baekjoon/11_math-2/1016.py)
 
 ### [브루트 포스](https://www.acmicpc.net/step/22)
 
