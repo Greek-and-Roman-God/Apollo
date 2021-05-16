@@ -88,7 +88,7 @@ from collections import deque
 def check(answer):
     for x, y, stuff in answer:
         if stuff == 0:  # 기둥
-            # 바닥 위 이거나
+            # 바닥 위 이거나 y == 0
             # 아래가 기둥 이거나
             # 아래가 보 이거나
             # print(f'{x, y} 체크')
