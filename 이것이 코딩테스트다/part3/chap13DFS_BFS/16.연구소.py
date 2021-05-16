@@ -1,5 +1,5 @@
 # 연구소
-#
+# https://www.acmicpc.net/problem/14502
 from itertools import permutations
 from copy import deepcopy
 import sys
@@ -85,7 +85,7 @@ for i in range(n):
         elif row[j] == 0:
             empty.append((i, j))
 
-set_walls = list(permutations(empty, 3))
+# set_walls = list(permutations(empty, 3))
 # print(set_walls)
 
 empty_cnt = len(empty) - 3
