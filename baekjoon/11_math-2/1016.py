@@ -47,7 +47,6 @@ squares = [i**2 for i in range(2, end_num+1)]
 valid = [0] * (max-min+1)
 for square in squares:
     temp = math.ceil(min/square) * square
-    # print(square, temp-min)
     while temp <= max:
         valid[temp-min] = 1
         temp += square
