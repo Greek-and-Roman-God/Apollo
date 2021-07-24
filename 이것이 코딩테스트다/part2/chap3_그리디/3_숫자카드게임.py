@@ -18,3 +18,14 @@ for i in range(n):
     result = max(result, min_value)
 
 print(result)
+
+
+# 2021-07-18
+
+n, m = map(int, input().split())
+
+nums = []
+for _ in range(n):
+    nums.append(min(list(map(int, input().split()))))
+
+print(max(nums))
