@@ -11,3 +11,17 @@ while string:
         result = s + ''.join(string) + str(number)
         break
 print(result)
+
+
+# 2021-08-13
+string = list(map(ord, input()))
+string.sort()
+answer = ""
+number = 0
+for s in string:
+  temp = chr(s)
+  if not (48 <= s <= 57):
+    answer += temp
+  else:
+    number += int(temp)
+print(answer+str(number))
