@@ -12,3 +12,17 @@ while idx < len(string)-1:
 # cnt = [2, 1]
 
 print(min(cnt))
+
+# 2021-07-18
+s = list(input())
+cnt0, cnt1 = 0, 0
+pre = ""
+for ss in s:
+    if ss != pre:
+        if ss == "0":
+            cnt0 += 1
+        else:
+            cnt1 += 1
+        pre = ss
+
+print(min(cnt0, cnt1))
