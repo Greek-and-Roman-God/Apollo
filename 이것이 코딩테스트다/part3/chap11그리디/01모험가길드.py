@@ -26,3 +26,19 @@ for i in people:
         cnt = 0
         answer += 1
 print(answer)
+
+
+# 2021-07-18
+n = int(input())
+people = list(map(int, input().split()))
+
+people.sort()  # 1 2 2 2 3
+cnt = 0
+result = 0
+for p in people:
+    cnt += 1
+    if p <= cnt:
+        cnt = 0
+        result += 1
+
+print(result)
