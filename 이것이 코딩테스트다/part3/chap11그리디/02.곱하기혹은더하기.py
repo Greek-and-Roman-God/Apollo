@@ -12,3 +12,14 @@ while numbers:
     else:
         result += number
 print(result)
+
+# 2021-07-18
+numbers = list(map(int, list(input())))
+print(numbers)
+
+result = numbers[0]
+for i in range(1, len(numbers)):
+    num = numbers[i]
+    result = result + num if num <= 1 or result <= 0 else result * num
+
+print(result)
