@@ -33,3 +33,26 @@ def solution(s):
 # print(solution("xababcdcdababcdcd"))
 # print(solution("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxz"))
 print(solution("zxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"))
+
+
+# 2021-08-13
+def solution2(s):
+    answer = len(s)
+
+    for length in range(1, len(s)//2+1):
+        pre = ""
+        cnt = 1
+        result = 0
+        for i in range(0, len(s), length):
+            if pre != s[i:i+length]:
+                pre = s[i:i+length]
+                result += len(pre)
+                if cnt > 1:
+                    result += len(str(cnt))
+                cnt = 1
+            else:
+                cnt += 1
+        if cnt > 1:
+            result += len(str(cnt))
+        answer = min(answer, result)
+    return answer
