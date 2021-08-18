@@ -45,3 +45,39 @@ result = 0
 for row in mat:
     result += row.count(1)
 print(result)
+
+# 2021-08-18
+
+rotate = [(-1, 0), (0, -1), (1, 0), (0, 1)]
+
+m, n = map(int, input().split())
+loc_x, loc_y, dir_idx = map(int, input().split())
+island = [list(map(int, input().split())) for _ in range(m)]
+island[loc_x][loc_y] = 2
+
+cnt = 0
+result = 1
+while True:
+    nx, ny = loc_x+rotate[dir_idx][0], loc_y+rotate[dir_idx][1]
+    # print(loc_x, loc_y, dir_idx, "/", nx, ny)
+    # for i in island:
+    #     print(i)
+    if island[nx][ny] != 0:
+        dir_idx = (dir_idx+1) % 4
+        cnt += 1
+    else:
+        cnt = 0
+        loc_x, loc_y = nx, ny
+        island[nx][ny] = 2
+        result += 1
+
+    if cnt == 4:
+        nx, ny = loc_x-rotate[dir_idx][0], loc_y-rotate[dir_idx][1]
+        if island[nx][ny] != 1:
+            loc_x, loc_y = nx, ny
+        else:
+            break
+        cnt = 0
+    # print("=========================")
+
+print(result)
