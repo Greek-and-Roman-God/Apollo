@@ -85,56 +85,105 @@ from collections import deque
 
 
 # 2 ==================================================
-def check(answer):
-    for x, y, stuff in answer:
-        if stuff == 0:  # 기둥
-            # 바닥 위 이거나 y == 0
-            # 아래가 기둥 이거나
-            # 아래가 보 이거나
-            # print(f'{x, y} 체크')
-            # print(f'바닥인가? {y == 0}')
-            # print(f'아래가 기둥인가? {[x, y-1, 0] in answer}')
-            # print(
-            #     f'아래가 보의 한쪽 끝인가? {[x-1, y, 1] in answer or [x-1, y-1, 1] in answer}')
-            if y == 0 or [x, y, 1] in answer or [x-1, y, 1] in answer or [x, y-1, 0] in answer:
-                continue
-            return False
+# def check(answer):
+#     for x, y, stuff in answer:
+#         if stuff == 0:  # 기둥
+#             # 바닥 위 이거나 y == 0
+#             # 아래가 기둥 이거나
+#             # 아래가 보 이거나
+#             # print(f'{x, y} 체크')
+#             # print(f'바닥인가? {y == 0}')
+#             # print(f'아래가 기둥인가? {[x, y-1, 0] in answer}')
+#             # print(
+#             #     f'아래가 보의 한쪽 끝인가? {[x-1, y, 1] in answer or [x-1, y-1, 1] in answer}')
+#             if y == 0 or [x, y, 1] in answer or [x-1, y, 1] in answer or [x, y-1, 0] in answer:
+#                 continue
+#             return False
 
-        else:   # 보
-            # 양쪽이 보 이거나
-            # 한쪽이 기둥 이거나
-            # 바닥은 노노
-            if y != 0 and (([x, y-1, 0] in answer or [x+1, y-1, 0] in answer) or ([x-1, y, 1] in answer and [x+1, y, 1] in answer)):
-                continue
+#         else:   # 보
+#             # 양쪽이 보 이거나
+#             # 한쪽이 기둥 이거나
+#             # 바닥은 노노
+#             if y != 0 and (([x, y-1, 0] in answer or [x+1, y-1, 0] in answer) or ([x-1, y, 1] in answer and [x+1, y, 1] in answer)):
+#                 continue
 
-            return False
+#             return False
 
-    return True
+#     return True
 
 
-def solution1(n, build_frame):
-    answer = []
+# def solution1(n, build_frame):
+#     answer = []
 
-    for x, y, stuff, operate in build_frame:
-        if operate == 1:
-            # print(f'{x, y} 설치')
-            answer.append([x, y, stuff])
-            if not check(answer):
-                # print("설치 취소")
-                answer.remove([x, y, stuff])
-        else:
-            answer.remove([x, y, stuff])
-            if not check(answer):
-                answer.append([x, y, stuff])
-        # print("==================================================")
-    return sorted(answer)
+#     for x, y, stuff, operate in build_frame:
+#         if operate == 1:
+#             # print(f'{x, y} 설치')
+#             answer.append([x, y, stuff])
+#             if not check(answer):
+#                 # print("설치 취소")
+#                 answer.remove([x, y, stuff])
+#         else:
+#             answer.remove([x, y, stuff])
+#             if not check(answer):
+#                 answer.append([x, y, stuff])
+#         # print("==================================================")
+#     return sorted(answer)
 
 
 # print(solution1(5,	[[1, 0, 0, 1], [1, 1, 1, 1], [2, 1, 0, 1], [
 #       2, 2, 1, 1], [5, 0, 0, 1], [5, 1, 0, 1], [4, 2, 1, 1], [3, 2, 1, 1]]))
-print(solution1(5,	[[0, 0, 0, 1], [2, 0, 0, 1], [4, 0, 0, 1], [0, 1, 1, 1], [
-      1, 1, 1, 1], [2, 1, 1, 1], [3, 1, 1, 1], [2, 0, 0, 0], [1, 1, 1, 0], [2, 2, 0, 1]]))
+# print(solution1(5,	[[0, 0, 0, 1], [2, 0, 0, 1], [4, 0, 0, 1], [0, 1, 1, 1], [
+#       1, 1, 1, 1], [2, 1, 1, 1], [3, 1, 1, 1], [2, 0, 0, 0], [1, 1, 1, 0], [2, 2, 0, 1]]))
 
 # 인덱스가 주어진다고 무조건 리스트를 만들어서 풀 필요는 없다
 # 리스트를 만들었을 때 더 번거로워질 수 있음
 # 문제의 조건을 파악하고 복잡도를 계산하여 풀어야한다.
+
+
+# 2021-08-28
+
+# 기둥 0
+# 바닥 위 -> y == 0
+# 보의 한쪽 끝 위 -> (x, y) or (x+1, y)
+# 기둥 위 -> (x, y-1)
+
+# 보 1
+# 한쪽 끝이 기둥 위 -> (x, y-1) or (x+1, y-1)
+# 양쪽 끝부분이 다른 보와 동시에 연결 -> (x-1, y) and (x+1, y)
+
+def check(answer):
+
+    for x, y, stuff in answer:
+        if stuff == 0:
+            if not (y == 0 or [x, y, 1] in answer or [x-1, y, 1] in answer or [x, y-1, 0] in answer):
+                return False
+        else:
+            if not ([x, y-1, 0] in answer or [x+1, y-1, 0] in answer or ([x-1, y, 1] in answer and [x+1, y, 1] in answer)):
+                return False
+
+    return True
+
+
+def solution(n, build_frame):
+    answer = []
+
+    for [x, y, stuff, oper] in build_frame:
+        print(answer)
+        if oper == 0:  # 삭제
+            answer.remove([x, y, stuff])
+            if not check(answer):
+                # print(x, y, stuff, 0)
+                answer.append([x, y, stuff])
+        else:  # 설치
+            answer.append([x, y, stuff])
+            if not check(answer):
+                # print(x, y, stuff, 1)
+                answer.remove([x, y, stuff])
+
+    return sorted(answer)
+
+
+print(solution(5, [[1, 0, 0, 1], [1, 1, 1, 1], [2, 1, 0, 1], [
+      2, 2, 1, 1], [5, 0, 0, 1], [5, 1, 0, 1], [4, 2, 1, 1], [3, 2, 1, 1]]))
+# print(solution(5,	[[0, 0, 0, 1], [2, 0, 0, 1], [4, 0, 0, 1], [0, 1, 1, 1], [
+#       1, 1, 1, 1], [2, 1, 1, 1], [3, 1, 1, 1], [2, 0, 0, 0], [1, 1, 1, 0], [2, 2, 0, 1]]))
